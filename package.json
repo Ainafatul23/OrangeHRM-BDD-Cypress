@@ -1,0 +1,16 @@
+{
+  "name": "OrangeHRM-Testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ainafatul",
+  "license": "MIT",
+  "devDependencies": {
+    "cucumber": "^6.0.7",
+    "cypress": "9.5",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

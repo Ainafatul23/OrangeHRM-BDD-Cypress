@@ -1,0 +1,7 @@
+{
+    "ignoreTestFiles": [".js", ".md "],
+    "defaultCommandTimeout": 50000,
+    "pageLoadTimeout": 100000,
+    "testFiles": "**/*.feature"
+}
+  
