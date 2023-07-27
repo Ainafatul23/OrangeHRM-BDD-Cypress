@@ -156,5 +156,5 @@ Feature: PIM - Add Candidates
     And I click the Create Login Details toggle switch
     And I input password and confirm password do not match
     Then I should see an error message indicating password and confirm password do not match
-
+ 
     
